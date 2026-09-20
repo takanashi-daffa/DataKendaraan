@@ -29,7 +29,8 @@ Pada Hapus Data, pengguna memasukkan ID kendaraan yang ingin dihapus.
 Program akan terus berjalan sampai pengguna memilih Keluar.
 
 ## *Class Hierarchy*
-Pada program ini, class kendaraan digunakan sebagai class utama untuk menyimpan data yang umum dimiliki oleh kendaraan. Kemudian ada class mobil dan motor yang dibuat sebagai turunan dari kendaraan.\
+Pada program ini, class kendaraan digunakan sebagai class utama untuk menyimpan data yang umum dimiliki oleh kendaraan. Kemudian ada class mobil dan motor yang dibuat sebagai turunan dari kendaraan.
+
 Jadi, mobil dan motor masih memiliki data dari kendaraan, tetapi masing-masing juga memiliki data tambahan sesuai jenis kendaraannya.
 
 ## *Penerapan Konsep PBO*
